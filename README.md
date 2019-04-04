@@ -1,4 +1,4 @@
-# Post: Criando ChatBot em menos de 5 minutos?! Sim. É possível
+# Post Técnico: Criando ChatBot em menos de 5 minutos?! Sim. É possível!
 
 Repositório responsável pela demo do **echoBot**. Mostrando que é possível desenvolver um ChatBot em menos de 5 minutos.
 
