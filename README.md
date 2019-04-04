@@ -8,8 +8,8 @@ Repositório responsável pela demo do **echoBot**. Mostrando que é possível d
 - **[Node.js](https://nodejs.org/en/)**
 - **[Yeoman](https://yeoman.io/)**
 - **[Microsoft Bot Framework Emulator v.4](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3)**
-- Instalar a versão Python 2.x - [DOWNLOAD AQUI](https://www.python.org/downloads/)
-- Instalar globalmente o node-gyp - [DOCUMENTAÇÃO PARA INSTALAÇÃO DE MANEIRA CORRETA AQUI](https://github.com/nodejs/node-gyp)
+- **[Instalar a versão Python 2.x](https://www.python.org/downloads/)**
+- **[Instalar globalmente o node-gyp](https://github.com/nodejs/node-gyp)**
 
 ## Instalação do node-gyp (para Usuários Windows) 💥
 
