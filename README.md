@@ -4,7 +4,7 @@ Repositório responsável pela demo do **echoBot**. Mostrando que é possível d
 
 ## Recursos Utilizados no Desenvolvimento: :rocket:
 
-- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=github-post-chatbot-nodejs-v4-gllemos)**
+- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=post-chatbot-nodejs-v4-github-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Yeoman](https://yeoman.io/)**
 - **[Microsoft Bot Framework Emulator v.4](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3)**
@@ -109,13 +109,15 @@ Bastam seguir os passos abaixo:
 
 ## Links e Recursos Adicionais: 🔥
 
-* **[Depurar Aplicação ChatBot com Emulador](http://bit.ly/2UfQMon)**
+* **[Entenda Mais Sobre Azure Bot Service](http://bit.ly/2UpDaa3)**
 
-* **[Documentação LUIS](http://bit.ly/2Uk96Nj)**
+* **[Depurar Aplicação ChatBot com Emulador](http://bit.ly/2U22gXz)**
 
-* **[Crie um ChatBot com LUIS](http://bit.ly/2UszAuX)**
+* **[Documentação LUIS](http://bit.ly/2IoBIxJ)**
 
-* **[Experimente Grátis os Serviços Cognitivos](http://bit.ly/2G08YIP)**
+* **[Crie um ChatBot com LUIS](http://bit.ly/2WUa3Zn)**
+
+* **[Experimente Grátis os Serviços Cognitivos](http://bit.ly/2WMAGPG)**
 
 
 ## Dúvidas?! ❓
