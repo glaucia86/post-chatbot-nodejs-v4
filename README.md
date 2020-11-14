@@ -4,7 +4,7 @@ Repositório responsável pela demo do **echoBot**. Mostrando que é possível d
 
 ## Recursos Utilizados no Desenvolvimento: :rocket:
 
-- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=post-chatbot-nodejs-v4-github-gllemos)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Yeoman](https://yeoman.io/)**
 - **[Microsoft Bot Framework Emulator v.4](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.3.3)**
